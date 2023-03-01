@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**advanreloaded/advanreloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Ruben Garcia D. (advanreloaded)** - I'm a fullstack developer. I work on random projects in my free time.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,php,java,mysql,firebase,vscode,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>⚡ Github Stats</summary>
+
+  [![advanreloaded's Github stats-Dark](https://github-readme-stats-advanreloaded.vercel.app/api?username=advanreloaded&theme=github_dark&count_private=true&show_icons=true&hide_border=true&line_height=25&cache_seconds=7200#gh-dark-mode-only)](https://github.com/advanreloaded/github-readme-stats#gh-dark-mode-only)
+  [![advanreloaded's Github stats-Light](https://github-readme-stats-advanreloaded.vercel.app/api?username=advanreloaded&theme=default&count_private=true&show_icons=true&hide_border=true&line_height=25&cache_seconds=7200#gh-light-mode-only)](https://github.com/advanreloaded/github-readme-stats#gh-light-mode-only)
+  [![advanreloaded's Top Langs stats-Dark](https://github-readme-stats-advanreloaded.vercel.app/api/top-langs/?username=advanreloaded&theme=github_dark&layout=compact&langs_count=6&count_private=true&hide_border=true&cache_seconds=7200#gh-dark-mode-only)](https://github.com/advanreloaded/github-readme-stats#gh-dark-mode-only)
+  [![advanreloaded's Top Langs stats-Light](https://github-readme-stats-advanreloaded.vercel.app/api/top-langs/?username=advanreloaded&theme=default&layout=compact&langs_count=6&count_private=true&hide_border=true&cache_seconds=7200#gh-light-mode-only)](https://github.com/advanreloaded/github-readme-stats#gh-light-mode-only)
+  
+</details>
