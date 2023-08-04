@@ -2,7 +2,7 @@
 
 **I'm Ruben Garcia D. (advanreloaded)** - I'm a fullstack developer. I work on random projects in my free time.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,php,java,mysql,firebase,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,php,java,mysql,firebase,vscode,github)](https://skillicons.dev)
 
 <details>
   <summary>⚡ Github Stats</summary>
